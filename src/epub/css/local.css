@@ -33,3 +33,12 @@ blockquote.sign{
 	text-align: center;
 	text-indent: 0;
 }
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
