@@ -39,7 +39,7 @@ p span.i1{
 	text-indent: -1em;
 }
 
-blockquote.sign{
+section#chapter-1-1 > blockquote:nth-of-type(2){
 	text-align: center;
 	text-indent: 0;
 }
