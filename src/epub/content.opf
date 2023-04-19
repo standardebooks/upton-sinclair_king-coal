@@ -42,9 +42,10 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008100844</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A wealthy student takes a job as a miner in order to learn about dangerous and exploitative working conditions in the coal mining industry.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;King Coal&lt;/i&gt; explores the lives of coal miners in early 20th century America. The story follows a privileged student who takes a job as a miner to gain firsthand experience of harsh conditions and mistreatment of workers. The protagonist is shocked by what he discovers and becomes an advocate for the miners, leading them in their fight against the mine owners and the political system that supports them.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/upton-sinclair"&gt;Sinclair’s&lt;/a&gt; writing style is known for its vivid descriptions and its ability to bring to life the characters and their struggles. Like much of his work, &lt;i&gt;King Coal&lt;/i&gt; is a ficticious account of real issues. The novel is based on the author’s research in Colorado during the coal strikes of 1913⁠–⁠14, and is considered a classic of the muckraking genre that exposed the social and economic problems of the time.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7522</dc:source>
