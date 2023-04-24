@@ -11,8 +11,7 @@ section[epub|type~="dedication"] p{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:song"] p,
-[epub|type~="z3998:verse"] p{
+[epub|type~="z3998:song"] p{
 	text-align: initial;
 	text-indent: 0;
 }
@@ -21,15 +20,13 @@ section[epub|type~="dedication"] p{
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:song"] p > span,
-[epub|type~="z3998:verse"] p > span{
+[epub|type~="z3998:song"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:song"] p > span + br,
-[epub|type~="z3998:verse"] p > span + br{
+[epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
 

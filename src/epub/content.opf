@@ -33,7 +33,7 @@
 		<meta property="file-as" refines="#subtitle">Novel of the Colorado Coal Country, A</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">King Coal: A Novel of the Colorado Coal Country</dc:title>
-		<meta property="file-as" refines="#fulltitle">King Coal: A Novel of the Colorado Coal Country</meta>
+		<meta property="file-as" refines="#fulltitle">King Coal</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Coal miners -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Coal mines and mining -- Fiction</dc:subject>
