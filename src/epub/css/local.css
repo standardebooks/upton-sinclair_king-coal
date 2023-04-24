@@ -38,11 +38,6 @@ p span.i1{
 	text-indent: -1em;
 }
 
-section#chapter-1-1 > blockquote:nth-of-type(2){
-	text-align: center;
-	text-indent: 0;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -50,4 +45,11 @@ footer{
 
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+}
+
+section#chapter-1-1 > blockquote:nth-of-type(2){
+	font-variant: small-caps;
+	font-weight: normal;
+	text-align: center;
+	text-indent: 0;
 }
