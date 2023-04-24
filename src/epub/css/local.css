@@ -49,7 +49,14 @@ footer{
 
 section#chapter-1-1 > blockquote:nth-of-type(2){
 	font-variant: small-caps;
-	font-weight: normal;
 	text-align: center;
 	text-indent: 0;
+}
+
+section#afterword > blockquote:nth-of-type(3) > header{
+	font-variant: small-caps;
+}
+
+section#afterword > blockquote:nth-of-type(3) > header > p:nth-of-type(2){
+	font-size: small;
 }
