@@ -55,5 +55,5 @@ section#afterword > blockquote:nth-of-type(3) > header{
 }
 
 section#afterword > blockquote:nth-of-type(3) > header > p:nth-of-type(2){
-	font-size: small;
+	font-size: .75em;
 }
