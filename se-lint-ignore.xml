@@ -6,10 +6,4 @@
 			<reason>The matched quotation marks do not contain dialogue and therefore do not need a comma.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-3-3.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>Conjunction at start of sentence is part of dialogue.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
