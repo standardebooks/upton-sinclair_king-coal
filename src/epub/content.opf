@@ -51,7 +51,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/7522</dc:source>
 		<dc:source>https://archive.org/details/kingcoalnov00sincrich</dc:source>
 		<meta property="se:production-notes">Fixed chapter numbering from original edition: chapter 4-16 did not exist and chapter 4-19 was present twice. The original chapters 17, 18 and (1st) 19 have therefore been renumbered.</meta>
-		<meta property="se:word-count">126190</meta>
+		<meta property="se:word-count">126189</meta>
 		<meta property="se:reading-ease.flesch">81.22</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/King_Coal</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/upton-sinclair_king-coal</meta>
