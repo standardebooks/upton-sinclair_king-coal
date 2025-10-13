@@ -61,7 +61,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Upton_Sinclair</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79127862</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aft</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">waw</meta>
 		<dc:contributor id="artist">George Luks</dc:contributor>
 		<meta property="file-as" refines="#artist">Luks, George</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/George_Luks</meta>
@@ -72,7 +72,7 @@
 		<meta property="file-as" refines="#author-of-introduction">Brandes, Georg</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction">https://en.wikipedia.org/wiki/Georg_Brandes</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">http://id.loc.gov/authorities/names/n79085023</meta>
-		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="transcriber-1">Eric Eldred</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Eldred, Eric</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
