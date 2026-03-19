@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-1-3.xhtml">
-		<ignore code="t-005">
-			<line>11</line>
-			<reason>The matched quotation marks do not contain dialogue and therefore do not need a comma.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
