@@ -60,6 +60,7 @@
 		<link href="https://github.com/standardebooks/upton-sinclair_king-coal" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Upton Sinclair</dc:creator>
 		<meta property="file-as" refines="#author">Sinclair, Upton</meta>
+		<meta property="schema:alternateName" refines="#author">Upton Beall Sinclair Jr.</meta>
 		<link href="https://en.wikipedia.org/wiki/Upton_Sinclair" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79127862.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -82,8 +83,9 @@
 		<dc:contributor id="transcriber-2">Beth Trapaga</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Trapaga, Beth</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team</meta>
+		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Job Curtis</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Curtis, Job</meta>
